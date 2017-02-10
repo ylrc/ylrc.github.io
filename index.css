@@ -1,0 +1,19 @@
+.html{background: url(img/bj.jpg) fixed no-repeat;max-width: 100%;background-size:cover;}
+nav{width:100%;background:url(img/bg_nav.jpg);background-size:cover;font-size: 30px;}
+.name34{font-size: 60px;color: #FFDEAD;}
+img{width:300px;height:150px;border-radius: 40px;margin: 10px 10px;cursor: pointer;/*display: none;*/}
+.FebPhoto,.MarPhoto,.AprPhoto,.MayPhoto,.JunePhoto,.AugPhoto,.JulyPhoto,.SepPhoto,.OctPhoto,.NovPhoto,.DecPhoto{
+    width:90%;padding-left:50px;}
+.JulyPhoto,.AugPhoto{padding-left: 210px;}
+.OctPhoto,.NovPhoto,.DecPhoto{padding-left: 370px;}
+.MayText,.DecText,.JulyText,.AugText,.OctText,.NovText,.DecText p:first-child{padding: 40px 50px;line-height: 40px;}
+p{font-size: 35px;padding-top: 20px;}
+.din{display: none;}
+.ma{margin:0 auto;}
+.tips{color: #1561ad;}
+.text-color1{color: #FF6600;padding: 40px 0;}
+.text-color2{color: #5cb85c;}
+.text-color3{color: #243850;}
+.beforeBegin p:first-child,.afterText p:first-child{padding:50px;color: #EE9A00;line-height: 60px;}
+.FebIntroduction,.MarIntroduction,.AprIntroduction,.MayIntroduction,.JuneIntroduction,.JulyIntroduction,.AugIntroduction,.SepIntroduction,.OctIntroduction,.NovIntroduction,.DecIntroduction{
+    width:90%;background-color: rgba(255,255,255,0.2);border-radius: 15px;}
